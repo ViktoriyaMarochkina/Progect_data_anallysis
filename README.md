@@ -1,2 +1,2 @@
-# Project_data_anallysis
+# Project_data_analysis
 Проект по цифровой кафедре (2023)
